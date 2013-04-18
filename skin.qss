@@ -1,0 +1,7 @@
+QMainWindow{
+background:url(./images/woodbackground.png)
+}
+QPushButton {
+color:red;        
+background-color:#aaaaaa
+}
